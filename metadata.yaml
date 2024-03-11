@@ -1,0 +1,38 @@
+_repo: My-dog-and-I-b-Being-a-concise-treatise-of-the-various-breeds-of-dogs-their-origins-and-uses-__73034
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cain, Neville
+    gutenberg_agent_id: '56922'
+    url: http://www.gutenberg.org/2009/agents/56922
+creator:
+  author:
+    agent_name: Huntington, Harry Woodworth
+    gutenberg_agent_id: '56921'
+    url: http://www.gutenberg.org/2009/agents/56921
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73034'
+  lccn: '12023579'
+language: en
+pgterms:marc904: https://archive.org/details/mydogibeingconci00hunt/page/n5/mode/2up
+pgterms:marc905: 20220730040203huntington
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Sonya Schermann and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Caxton Press, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs'
+- !lcc 'SF'
+- GITenberg
+title: 'My dog and I : $b Being a concise treatise of the various breeds of dogs,
+  their origins and uses. Written expressly for the novice, containing a comprehensive
+  mode of treatment both in health and sickness, together with the names of some prominent
+  breeders.'
+url: http://www.gutenberg.org/ebooks/73034
