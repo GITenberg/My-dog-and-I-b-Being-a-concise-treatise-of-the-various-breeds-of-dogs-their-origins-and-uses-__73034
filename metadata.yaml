@@ -5,12 +5,17 @@ contributor:
     agent_name: Cain, Neville
     gutenberg_agent_id: '56922'
     url: http://www.gutenberg.org/2009/agents/56922
+covers:
+- cover_type: archival
+  image_path: 73034-h/images/cover.jpg
 creator:
   author:
     agent_name: Huntington, Harry Woodworth
     gutenberg_agent_id: '56921'
     url: http://www.gutenberg.org/2009/agents/56921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73034#My-dog-and-I-b-Being-a-concise-treatise-of-the-various-breeds-of-dogs-their-origins-and-uses-_
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
